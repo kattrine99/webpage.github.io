@@ -1,0 +1,43 @@
+.bodypage
+{
+    margin: 1% 10% 1% 10%;
+    background-image: url("images/test.jpg");
+}
+.mainpage
+{
+    display: grid;
+    flex-wrap: nowrap;
+    border: 10px #ffffff solid;
+    background-color: #ffffff;
+}
+.mainname
+{
+    border: none;
+    background-color: #a8f0f0;
+    text-align: right;
+}
+.mainname h2
+{
+    border: none;
+    font-size: 14pt;
+    float: right;
+}
+.content
+{
+    border: 4px #c2e9e9 solid;
+    background-color: #e8fbfb;
+    padding: 5px 5px 5px 5px;
+    margin-top: 10px;
+    height: auto;
+
+}
+
+.date
+{
+    border-bottom: 2px #008f96 dashed;
+}
+.content img
+{
+    float: right;
+}
+
